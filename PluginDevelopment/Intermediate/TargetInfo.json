@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PluginDevelopment",
+			"Path": "C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopment.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PluginDevelopmentEditor",
+			"Path": "C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopmentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

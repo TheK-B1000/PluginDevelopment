@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PluginDevelopment.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{200A0FB7-6D8C-4F77-8790-15158EF0C6BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PluginDevelopment.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PluginDevelopmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7CCF5AD8-CBD5-4AA3-A3F6-0120D757493F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PluginDevelopment">
+      <UniqueIdentifier>{5C70DA75-A52C-4679-A35C-2E1B71C7F97F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PluginDevelopment\PluginDevelopment.Build.cs">
+      <Filter>Source\PluginDevelopment</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PluginDevelopment\PluginDevelopment.cpp">
+      <Filter>Source\PluginDevelopment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PluginDevelopment\PluginDevelopment.h">
+      <Filter>Source\PluginDevelopment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PluginDevelopment\PluginDevelopmentGameModeBase.cpp">
+      <Filter>Source\PluginDevelopment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PluginDevelopment\PluginDevelopmentGameModeBase.h">
+      <Filter>Source\PluginDevelopment</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

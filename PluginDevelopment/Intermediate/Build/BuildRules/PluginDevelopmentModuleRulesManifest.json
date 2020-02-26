@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopment\\PluginDevelopment.Build.cs",
+		"C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopment.Target.cs",
+		"C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopmentEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.1"
+}
