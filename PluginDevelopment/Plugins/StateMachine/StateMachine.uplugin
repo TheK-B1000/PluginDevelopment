@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "State Machine for Games",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "K-B",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "StateMachine",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

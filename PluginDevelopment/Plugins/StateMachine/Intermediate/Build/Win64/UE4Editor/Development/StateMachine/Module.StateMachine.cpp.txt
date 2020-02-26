@@ -1,0 +1,6 @@
+C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\CppPlugin\PluginDevelopment\Plugins\StateMachine\Intermediate\Build\Win64\UE4Editor\Development\StateMachine\Definitions.StateMachine.h
+C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/CppPlugin/PluginDevelopment/Plugins/StateMachine/Source/StateMachine/Private/SM_State.cpp
+C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\CppPlugin\PluginDevelopment\Plugins\StateMachine\Source\StateMachine\Public\SM_State.h
+C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\CppPlugin\PluginDevelopment\Plugins\StateMachine\Intermediate\Build\Win64\UE4Editor\Inc\StateMachine\SM_State.generated.h
+C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/CppPlugin/PluginDevelopment/Plugins/StateMachine/Source/StateMachine/Private/StateMachine.cpp
+C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\CppPlugin\PluginDevelopment\Plugins\StateMachine\Source\StateMachine\Public\StateMachine.h

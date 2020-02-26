@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopment\\PluginDevelopment.Build.cs",
+		"C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Plugins\\StateMachine\\Source\\StateMachine\\StateMachine.Build.cs",
 		"C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopment.Target.cs",
 		"C:\\Users\\TheK-B1000\\Desktop\\The K-B Folder\\Unreal\\repos\\CppPlugin\\PluginDevelopment\\Source\\PluginDevelopmentEditor.Target.cs"
 	],
